@@ -1,4 +1,4 @@
-name: "Run tfsec PR commenter"
+name: "Test tfsec PR commenter latest fix"
 description: "Runs tfsec and adds comments to the PR where checks have failed"
 author: "Owen Rumney"
 
