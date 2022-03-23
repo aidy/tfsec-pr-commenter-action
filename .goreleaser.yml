@@ -26,6 +26,6 @@ archives:
 release:
   prerelease: auto
   github:
-    owner: aquasecurity
-    name: tfsec-pr-commenter-action
+    owner: aidy
+    name: tfsec-pr-commenter-action-aidy
 
