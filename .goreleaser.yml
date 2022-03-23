@@ -27,5 +27,5 @@ release:
   prerelease: auto
   github:
     owner: aidy
-    name: tfsec-pr-commenter-action-aidy
+    name: tfsec-pr-commenter-action
 
